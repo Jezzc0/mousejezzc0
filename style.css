@@ -23,6 +23,7 @@ h2 {
     margin: auto;
     background-color: rgb(209, 233, 253);
     border-radius: 400px;
+    max-width: 1200px;
 }
 #sxematable {
     margin: auto;
